@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sane187.github.io/csb-9458h0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sane187.github.io/csb-9458h0/static/js/main.a0ea02c9.chunk.js",
+    "main.js.map": "https://sane187.github.io/csb-9458h0/static/js/main.a0ea02c9.chunk.js.map",
+    "runtime-main.js": "https://sane187.github.io/csb-9458h0/static/js/runtime-main.844a9b0f.js",
+    "runtime-main.js.map": "https://sane187.github.io/csb-9458h0/static/js/runtime-main.844a9b0f.js.map",
+    "static/js/2.3d7d553f.chunk.js": "https://sane187.github.io/csb-9458h0/static/js/2.3d7d553f.chunk.js",
+    "static/js/2.3d7d553f.chunk.js.map": "https://sane187.github.io/csb-9458h0/static/js/2.3d7d553f.chunk.js.map",
+    "index.html": "https://sane187.github.io/csb-9458h0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sane187.github.io/csb-9458h0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3d7d553f.chunk.js.LICENSE.txt": "https://sane187.github.io/csb-9458h0/static/js/2.3d7d553f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.844a9b0f.js",
+    "static/js/2.3d7d553f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a0ea02c9.chunk.js"
+  ]
+}
